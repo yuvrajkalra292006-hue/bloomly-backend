@@ -9,7 +9,7 @@ import os
 # ======================
 # CONFIG
 # ======================
-genai.configure(api_key="AQ.Ab8RN6KZqzirCxcSB6OtC0YBpylv4LtW4sPzxYVCV2udUOo2dA")  # ← Paste your key here
+genai.configure(api_key="AQ.Ab8RN6KoXGM_7kKQfgHhB6XvroStD3x7NQqevHM06kE0ZyUudg")  # ← Paste your key here
 
 MODEL_NAME = "gemini-3.6-flash"
 model_ai = genai.GenerativeModel(MODEL_NAME)
